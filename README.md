@@ -5,6 +5,8 @@ This repository provides Dockerfile for [fastText](https://fasttext.cc/).
 ## Build
 
 ```sh
+$ git clone https://github.com/noriyukipy/fasttext-docker
+$ cd fasttext-docker
 $ docker image build -t fasttext .
 ```
 
